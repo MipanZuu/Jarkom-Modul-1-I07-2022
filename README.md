@@ -3,7 +3,7 @@
 Group Members:
 1. Denta Bramasta Hidayat (5025201116)
 2. Ghazi Buana Dewa (5025201074)
-3. Rivaldo
+3. Rivaldo Panangian Tambunan (5025201134)
 
 
 ## Question 1
